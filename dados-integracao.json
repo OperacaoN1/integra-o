@@ -2,9 +2,10 @@
     {
         "id": 77821223,
         "dataDeCadastro": "23/04/2024 00:00:00",
-        "contato": "Fulano",
+        "usuario": "Fulano",
         "status": "direcionado",
         "meioFinalizador": "telefone",
-        "erro": "erro no email"
+        "erro": "erro no email",
+        "responsavelTratativa": ""
     }
 ]
